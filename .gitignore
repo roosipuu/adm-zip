@@ -3,3 +3,6 @@ node_modules
 xxx
 .idea
 *.iml
+
+# Coverage files
+.nyc_output
